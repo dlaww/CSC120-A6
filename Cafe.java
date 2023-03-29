@@ -1,5 +1,3 @@
-import javax.lang.model.util.ElementScanner14;
-
 /* This is a stub for the Cafe class */
 public class Cafe extends Building {
 
